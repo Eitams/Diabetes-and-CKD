@@ -13,5 +13,4 @@ Base mode
 Over and under method to rebalanced the data - Best performing model in terms of F1 score  
 ![image](https://user-images.githubusercontent.com/62335786/152230879-5f024d45-1900-47ba-b755-72bb4fd7b591.png)
 
-Key
-Data preprocessing, data cl
+Tools: python including Pandas and sklearn, visualizaytion with matplotlib and plotly 
